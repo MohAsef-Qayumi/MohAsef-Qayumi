@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERN STACK, Python , JAVA , JS**
 
-- 📫 How to reach me **asef.qayumi0747@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/mohammadasef-qayumi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
