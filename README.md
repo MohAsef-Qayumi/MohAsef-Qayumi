@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Asef</h1>
-<h3 align="center">A passionate frontend developer from Afg</h3>
+<h3 align="center">A passionate Mern Stack developer from Afg</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohasef-qayumi&label=Profile%20views&color=0e75b6&style=flat" alt="mohasef-qayumi" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **MERN stack apps**
 
-- 💬 Ask me about **MERN STACK, Python , JAVA , JS**
+- 💬 Ask me about **MERN STACK, Python, JAVA, JS**
 
 - 📫 How to reach me **asef.qayumi0747@gmail.com**
 
