@@ -3,7 +3,7 @@
 
 <p align="center">
   I design and ship products end to end: web applications, Flutter apps and practical AI automation.<br />
-  Based in Islamabad, from Herat. Available for remote roles and freelance projects.
+  Available for remote roles and freelance projects.
 </p>
 
 <p align="center">
