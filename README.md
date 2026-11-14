@@ -1,35 +1,54 @@
-<h1 align="center">Hi 👋, I'm Mohammad Asef</h1>
-<h3 align="center">A passionate Mern Stack developer from Afg</h3>
+<h1 align="center">Mohammad Asef Qayumi</h1>
+<h3 align="center">Full-Stack Web & Mobile Developer · AI Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohasef-qayumi&label=Profile%20views&color=0e75b6&style=flat" alt="mohasef-qayumi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohasef-qayumi" alt="mohasef-qayumi" /></a> </p>
-
-- 🌱 Professional in **AI&ML techs**
-
-- 👯 I’m looking to collaborate on **Web application and Mobile apps projects**
-
-- 🤝 I’m looking for help with **MERN stack apps**
-
-- 💬 Ask me about **MERN STACK, Python, JAVA, JS**
-
-- 📫 How to reach me **asef.qayumi0747@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammadasef-qayumi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammadasef-qayumi/" height="30" width="40" /></a>
+<p align="center">
+  I design and ship products end to end: web applications, Flutter apps and practical AI automation.<br />
+  Based in Islamabad, from Herat. Available for remote roles and freelance projects.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammadasef-qayumi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.fiverr.com/sellers/moh_asefdev"><img src="https://img.shields.io/badge/Hire%20me%20on%20Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+  <a href="mailto:asef.qayumi0747@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mohasef-qayumi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohasef-qayumi&show_icons=true&locale=en&layout=compact" alt="mohasef-qayumi" /></p>
+## What I do
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohasef-qayumi&show_icons=true&locale=en" alt="mohasef-qayumi" /></p>
+| Web applications | Mobile & desktop apps | AI & automation |
+| --- | --- | --- |
+| React and Next.js frontends | Flutter apps for Android and iOS | LLM features with validated output |
+| Node.js and Express APIs | Offline-first storage and sync | AI agents and n8n workflows |
+| Databases, integrations, Stripe payments | Desktop apps and browser extensions | Machine learning models in Python |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohasef-qayumi&" alt="mohasef-qayumi" /></p>
+## Featured projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[Tarjuman](https://github.com/MohAsef-Qayumi/Tarjuman)** · [live](https://tarjuman-xi.vercel.app) | Translates classical Arabic texts while you read, as a browser extension and a desktop app. Glossary-aware prompts and automatic failover between AI providers. | TypeScript, Next.js, Electron, LLM APIs |
+| **[Sehat](https://github.com/MohAsef-Qayumi/sehat)** | Offline-first patient records for small clinics. Works without internet and merges edits from several devices without losing data. | Next.js, PostgreSQL, IndexedDB |
+| **[Portfolio](https://github.com/MohAsef-Qayumi/Myportfolio)** | My personal site. | Next.js, Tailwind CSS |
+
+## Tech
+
+**Languages** &nbsp; TypeScript · JavaScript · Python · Java · Dart · SQL
+
+**Frontend** &nbsp; React · Next.js · Tailwind CSS · Sass · HTML5 · CSS3 · Figma
+
+**Backend** &nbsp; Node.js · Express · Spring · REST APIs · Stripe
+
+**Data** &nbsp; PostgreSQL · MongoDB · MySQL · SQLite · Firebase
+
+**Mobile & desktop** &nbsp; Flutter · Electron
+
+**AI & ML** &nbsp; LLM APIs · n8n · scikit-learn · pandas · seaborn
+
+**Tooling** &nbsp; Git · GitHub Actions · Postman · Vercel
+
+## Get in touch
+
+- Email: **asef.qayumi0747@gmail.com**
+- LinkedIn: [mohammadasef-qayumi](https://www.linkedin.com/in/mohammadasef-qayumi/)
+- Fiverr: [moh_asefdev](https://www.fiverr.com/sellers/moh_asefdev)
+
+Ask me about full-stack JavaScript, Flutter, Python, Java, or building AI features into real products.
