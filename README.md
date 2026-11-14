@@ -25,6 +25,7 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| **[AsanBazar](https://asanbazar.net)** (client project) | Afghanistan's free classifieds marketplace: listings by province, district and category, in several languages, on the web and as mobile apps. | React, Vite, Supabase |
 | **[Tarjuman](https://github.com/MohAsef-Qayumi/Tarjuman)** · [live](https://tarjuman-xi.vercel.app) | Translates classical Arabic texts while you read, as a browser extension and a desktop app. Glossary-aware prompts and automatic failover between AI providers. | TypeScript, Next.js, Electron, LLM APIs |
 | **[Sehat](https://github.com/MohAsef-Qayumi/sehat)** | Offline-first patient records for small clinics. Works without internet and merges edits from several devices without losing data. | Next.js, PostgreSQL, IndexedDB |
 | **[Portfolio](https://github.com/MohAsef-Qayumi/Myportfolio)** | My personal site. | Next.js, Tailwind CSS |
